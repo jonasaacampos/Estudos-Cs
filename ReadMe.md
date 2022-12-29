@@ -1,5 +1,5 @@
 # Estudos em C#
-
+> anotações e códigos com sintaxe básica utilizando o C# com finalidade de aprendizado e documentação para consultas futuras.
 
 
 ## Variáveis e tipos de dados
@@ -83,4 +83,4 @@ variavel = (operação lógica) ? valor True : valor False;
 ## Métodos
 
 > - [Exemplo recursividade](Recursividade/Recursividade/Recursiva.cs)
-> - [Método main](MetodoMain/MetodoMain/Program.cs)
+> - [Método main com parâmetros](MetodoMain/MetodoMain/Program.cs)
